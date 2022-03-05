@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Australia v Sri Lanka - Cricket - BBC Sport",
+      "description": "Find out the in depth batting and bowling figures for Australia v Sri Lanka in the International Twenty20 Match on BBC Sport.",
+      "url": "https://www.bbc.co.uk/sport/cricket/scorecard/ECKO51153",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2022-02-13T08:22:22.4598599Z",
+      "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(2.1 overs)</th><th>16-for0wickets</th><… [+1257 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Will Pucovski resting after suffering concussion during Victoria's Sheffield Shield match against South Australia",
+      "description": "Cricket Victoria responds to calls for Will Pucovski to retire to protect his long-term health, after he suffered the 11th concussion of his frequently interrupted career.",
+      "url": "http://www.abc.net.au/news/2022-02-13/cricket-victoria-will-pucovski-concussion-management/100826842",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1354b5f6f1650d206bfbaa40345051a3?impolicy=wcms_crop_resize&cropH=1138&cropW=2023&xPos=0&yPos=161&width=862&height=485",
+      "publishedAt": "2022-02-13T07:34:18Z",
+      "content": "Will Pucovski has returned to Melbourne following another concussion, as Cricket Victoria calls for calm on speculation over the talented batter's future.\r\n<ul><li>Pucovski was concussed during a Vic… [+2459 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
